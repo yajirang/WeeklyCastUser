@@ -1,4 +1,7 @@
 {
+  "scripts": { 
+    "dev": "frog dev",
+  },
   "dependencies": {
     "frog": "^0.15.7",
     "hono": "^4.5.3"
