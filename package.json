@@ -1,6 +1,6 @@
 {
   "scripts": { 
-    "dev": "frog dev",
+    "dev": "frog dev"
   },
   "dependencies": {
     "frog": "^0.15.7",
